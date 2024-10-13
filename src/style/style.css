@@ -1,0 +1,30 @@
+.main {
+  padding-top: 70px;
+}
+
+.h5 {
+  color: rgb(83, 83, 83);
+}
+
+.navlink {
+  font-size: 20px;
+  text-decoration: none;
+  color: #000;
+  margin-inline-start: 15px;
+}
+
+li {
+  list-style-type: none;
+}
+
+input {
+  padding: 7px 5px;
+  border-radius: 5px;
+  /* width: 300px; */
+  /* border: none; */
+  border: 1px solid rgba(49, 49, 49, 0.671);
+}
+
+input:focus {
+  outline: none;
+}
